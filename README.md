@@ -1,8 +1,8 @@
-# Proyecto Final: Juego de Dados
+Proyecto Final: Juego de Dados
 
 ## Que es
 Es un programa en python de unos dados.
-
+### Ejemplo
 ## Para que sirve
 Para jugar a ver si sacas los puntos que quieres.
 
